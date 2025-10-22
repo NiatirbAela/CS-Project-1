@@ -1,6 +1,7 @@
 ## CS Project 1.py
 # App using GUI and PIL
     # to compute strain, stress, and axial force in a single 2D truss element
+#GITHUB: Uploaded the finished product so we can use link in presentation
 
 import math
 import tkinter as tk
@@ -258,3 +259,4 @@ if __name__ == "__main__":      #main funt. to run app
 
     TrussApp(root)                  # uses window from line 247 to run the app on
     root.mainloop()                 # starts the app, and keeps it running til close
+
